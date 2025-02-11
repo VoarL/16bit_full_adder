@@ -30,6 +30,7 @@ This project explores the design and analysis of a 16-bit CMOS full adder optimi
 ## Installation
 
 - Move files to your local directory and launch using virtuoso and ADE XL.
+- Use the Max10 Altera FPGA to run or simply simulate.
 
 ## Usage
 
